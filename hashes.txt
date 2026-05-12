@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ektu Boshiya Thako
+
+This log tracks the cryptographic history and versioning for the song **Ektu Boshiya Thako** (ektu-boshiya-thako).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T10:35:03.682735 | `v1` | `cd76a3a206e84e1c58cde6756baf6a5f6bec0c9111c762289edf1184684c0af7` | `899b8a6c5c0072ff591fb97d2e4b15638ddf2990bfe1d0146a38c3ba7fb37a78` | `2026-05-12_ektu-boshiya-thako-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
